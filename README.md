@@ -5,8 +5,10 @@ This Python project aims to provide personalized movie recommendations based on 
 
 # Key features:
 
-Personalized movie recommendations based on user preferences
-Collaborative filtering approach using historical ratings and similar users
-Data preprocessing, model building, and evaluation steps included
-User-friendly interface for inputting preferences and receiving recommendations
+1. Personalized movie recommendations based on user preferences
+2. Collaborative filtering approach using historical ratings and similar users
+3. Data preprocessing, model building, and evaluation steps included
+4. User-friendly interface for inputting preferences and receiving recommendations
+
+
 This project is useful for anyone who wants to discover new movies tailored to their tastes. Its modular design makes it easy to integrate with other systems, and the interface provides a seamless user experience. Contributions and feedback are always welcome.
